@@ -9,3 +9,12 @@
 # Documentation here: https://yarnpkg.com/features/zero-installs
 !.yarn/cache
 #.pnp.*
+
+# stuff from https://github.com/hexojs/hexo-starter
+.DS_Store
+Thumbs.db
+db.json
+*.log
+public/
+.deploy*/
+_multiconfig.yml
