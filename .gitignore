@@ -10,11 +10,9 @@
 !.yarn/cache
 #.pnp.*
 
-# stuff from https://github.com/hexojs/hexo-starter
-.DS_Store
-Thumbs.db
+
+# hexo cache
 db.json
-*.log
+
+# hexo generated files
 public/
-.deploy*/
-_multiconfig.yml
