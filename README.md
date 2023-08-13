@@ -25,3 +25,10 @@ build and serve
 yarn build
 yarn server
 ```
+
+## themes
+
+```bash
+git submodule add https://github.com/hexojs/hexo-theme-landscape.git themes/landscape
+git submodule add https://github.com/liuxiaotian/hexo-theme-lous themes/lous
+```

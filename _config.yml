@@ -4,10 +4,10 @@
 
 # Site
 title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
+subtitle: 'subtitle'
+description: 'description'
+keywords: [keyword]
+author: Mike Perrone
 language: en
 timezone: ''
 
@@ -97,7 +97,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+# theme: landscape
+theme: lous
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
