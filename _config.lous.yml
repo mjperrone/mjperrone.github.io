@@ -2,17 +2,17 @@ favicon: images/avatar.png
 
 menu:
   Home: /
-  About: about
+  # About: about
 
-copyright:
-  name: yourname
+# copyright:
+  # name: yourname
 
-license:
-  name: CC-BY-NC-SA 4.0
-  url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+# license:
+#   name: CC-BY-NC-SA 4.0
+#   url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-rss:
-  path: atom.xml
+# rss:
+#   path: atom.xml
 
 mathjax:
   enable: false
@@ -20,12 +20,12 @@ mathjax:
 katex:
   enable: true
 
-utterances:
-  enable: true
-  repo: owner/repo
-  issueTerm: pathname
-  theme: github-light
+# utterances:
+#   enable: true
+#   repo: owner/repo
+#   issueTerm: pathname
+#   theme: github-light
 
-analytics:
-  enable: true
-  gtag: G-XXXXXXXXXXXX
+# analytics:
+#   enable: true
+#   gtag: G-XXXXXXXXXXXX

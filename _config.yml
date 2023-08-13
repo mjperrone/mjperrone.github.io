@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: 'subtitle'
-description: 'description'
-keywords: [keyword]
+title: Mike's public notes
+subtitle: 'notes Mike has decided to make public'
+# description: 'description'
+# keywords: [keyword]
 author: Mike Perrone
 language: en
 timezone: ''
