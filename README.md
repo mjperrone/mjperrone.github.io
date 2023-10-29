@@ -1,4 +1,4 @@
-# mjperrone.github.io
+# [mjperrone.github.io](https://mjperrone.github.io/)
 
 
 ## setup
