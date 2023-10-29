@@ -2,7 +2,7 @@ favicon: images/avatar.png
 
 menu:
   Home: /
-  # About: about
+  About: about
 
 # copyright:
   # name: yourname
@@ -18,7 +18,7 @@ mathjax:
   enable: false
 
 katex:
-  enable: true
+  enable: false
 
 # utterances:
 #   enable: true

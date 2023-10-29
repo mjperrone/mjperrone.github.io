@@ -1,5 +1,7 @@
 ---
 title: Global gitignore
+tags: git
+date: 2023-05-03
 ---
 
 A [gitignore file](https://git-scm.com/docs/gitignore) specifies intentionally untracked files that Git should ignore.
