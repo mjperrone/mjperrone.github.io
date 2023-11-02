@@ -1,6 +1,6 @@
 ---
 title: Tree Climbing Knots
-tags: git
+tags: tree
 date: 2023-01-13
 ---
 
@@ -12,7 +12,7 @@ date: 2023-01-13
 | Double Fisherman's | Attaching carabiner to end of rope in MRS. | This is a cinching knot so no risk of side loading the carabiner compared to double fisherman’s |
 | VT=valdotaine tresses | One way friction prusik | Nate suggested |
 |  |  |  |
-| https://www.animatedknots.com/coil-unattached-rope-knot with slip finish | Throw rope over a branch | Just like the gasket coil storage knot, but finish with a bite through the loop and hold the bite. Throw from there. |
+| [Gasket coil](https://www.animatedknots.com/coil-unattached-rope-knot) with slip finish | Throw rope over a branch | Just like the gasket coil storage knot, but finish with a bite through the loop and hold the bite. Throw from there. |
 | Distel hitch | One way friction prusik | Nate suggested |
 | Michoacan hitch | One way friction prusik | Nate suggested |
 | Bowline Yosemite finish | Rope end termination knot to attach rope to carabiner | Nate uses. Bino recommends using a cinching knot like the anchor, double fisherman's, and buntline if the carabiner space is small (single rope through cinching) |
