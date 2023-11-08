@@ -10,9 +10,9 @@ This is the medical gear I keep in the trunk of my car as of November 2023.
 | --- | --- | --- | --- |
 | Pair of nitrile gloves | Protect hands from stuff. Protect stuff from hands. | 3 |  |
 | Trauma shears | Cut clothing to expose the body in case of urgent trauma. | 1 |  |
-| Tourniquet | Apply pressure to limbs to stop bleeding. | 1 | https://www.bleedingkits.org/all-products/tourniquet-combat-application-org-acs.html |
-| Compressed packing gauze | Treat severe bleeding at junctional sites with wound packing. Wound dressing more generally. | 2 | 4.5” x 4.1yard stretched 6-ply cotten from https://www.amazon.com/gp/product/B09GXFFRGZ/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1 |
-| Naloxone HCI 4mg nasal | Treat an opiate overdose. | 2 | narcan https://www.kelley-ross.com/services/naloxone/king-county-naloxone-access/ |
+| Tourniquet | Apply pressure to limbs to stop bleeding. | 1 | [Combat Application Tourniquet](https://www.bleedingkits.org/all-products/tourniquet-combat-application-org-acs.html) |
+| Compressed packing gauze | Treat severe bleeding at junctional sites with wound packing. Wound dressing more generally. | 2 | 4.5” x 4.1yd stretched 6-ply cotton from [Rhino Rescue](https://www.amazon.com/gp/product/B09GXFFRGZ/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1) |
+| Naloxone HCI 4mg nasal | Treat an opiate overdose. | 2 | narcan [Free by mail in King County, WA](https://www.kelley-ross.com/services/naloxone/king-county-naloxone-access/) |
 | non-stick pad 3x4 inch | Dress wounds to absorb blood and provide barrier to infection. | 2 |  |
 | PBT bandage | Secure dressing | 1 | 5 cm x4.5m  |
 | Triangular bandage | Sling to immobilize, secure dressings, apply pressure. | 1 | 96cm x 96 cm x 136cm |
