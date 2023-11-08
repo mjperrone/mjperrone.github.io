@@ -1,34 +1,5 @@
 # [mjperrone.github.io](https://mjperrone.github.io/)
 
+This is the github repo backing my website: [https://mjperrone.github.io](https://mjperrone.github.io).
 
-## setup
-
-```bash
-yarn init -2
-mkdir empty
-hexo init empty
-#  edit package.json and .gitignore manually
-cp -r empty/* .
-git clone https://github.com/hexojs/hexo-theme-landscape.git themes/landscape
-```
-
-## ongoing
-add page
-
-```bash
-yarn run hexo new post
-```
-
-build and serve
-
-```bash
-yarn build
-yarn server
-```
-
-## themes
-
-```bash
-git submodule add https://github.com/hexojs/hexo-theme-landscape.git themes/landscape
-git submodule add https://github.com/liuxiaotian/hexo-theme-lous themes/lous
-```
+It uses [hexo](https://hexo.io/) to build the website and github pages to host it.
