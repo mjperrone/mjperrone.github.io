@@ -28,6 +28,7 @@ This is the medical gear I keep in the trunk of my car as of November 2023.
 | Marker | Record data like time on tourniquet | 1 | sharpie |
 | Ibuprofen | anti inflammatory | 6 | 200mg each |
 | Aspirin | anti inflammatory, and blood thinner for heart attack+stroke | 4 |  |
+| Loratadine | antihistamine | 10 | 10mg each |
 | Alcohol wipes | Sterilizing surfaces/tools or intact skin. | 4 |  |
 | Antiseptic wipes | Sterilizing open wounds. | 4 |  |
 | Plastic bandage tweezers | Manipulate dressings or skin in a sterile and precise way. | 1 |  |
